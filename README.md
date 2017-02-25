@@ -21,4 +21,6 @@ Install, activate, and enjoy all mentions of GIFs being JIFs - as the gods inten
 Seriously? You want an FAQ for this? :-p
 
 == Changelog ==
-Version 0.1: initial release
+
+= 0.1 = 2-25-2017
+* First version
